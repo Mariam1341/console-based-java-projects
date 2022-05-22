@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/view/Main.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dto/CourseDto.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dto/DoctorDto.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dto/TADto.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dao/DataBase.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/view/icpc.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dto/User.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dao/StudentDaoImpl.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dao/DoctorDao.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/view/DummyData.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dao/AssignmentDao.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dto/StudentDto.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dao/DoctorDaoImpl.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dao/AssignmentDaoImpl.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dao/StudentDao.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dto/AssignmentDto.java</file>
+            <file>file:/C:/Users/Vega%20Laptop/Documents/NetBeansProjects/Adex/src/adex/dto/SolutionDto.java</file>
+        </group>
+    </open-files>
+</project-private>
